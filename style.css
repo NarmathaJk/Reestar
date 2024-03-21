@@ -1,0 +1,64 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    font-family: "Sahitya", serif;
+}
+.navbar-one
+{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-left:30px;
+    padding-right:30px;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+}
+.navbar-two{
+    padding-left: 80px;
+    padding-right:80px;
+    margin:50px;
+    text-align: center;
+}
+.navbar-two__card1,.navbar-two__card2,.navbar-two__card3,.navbar-two__card4{
+    
+    border: solid black 2px;
+    display:inline-block;
+    text-align: center;
+    font-size: 10px;
+}
+.navbar-two__button1, .navbar-two__button2, .navbar-two__button3, .navbar-two__button4
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.contact
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-left:30px;
+    padding-right:30px;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+}
+    .contact__table{
+    text-align: center; 
+}
+.contact__table
+{
+    display: inline-block;
+}
+.contact__table__button
+{
+    border:none;
+    width:150px;
+    border:solid yellow1px;
+    background-color: yellow;
+    color: black;
+   
+}
